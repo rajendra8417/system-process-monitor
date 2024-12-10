@@ -1,3 +1,4 @@
+<img width="932" alt="two" src="https://github.com/user-attachments/assets/faca90bb-2ab7-4bab-94f0-9f0ae05969d9">
 
 <img width="929" alt="1" src="https://github.com/user-attachments/assets/ce8ecfef-beb0-4db7-b483-c2bcd17b38aa">
 # system-process-monitor
